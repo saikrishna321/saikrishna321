@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/saikrishna321/saikrishna321/master/1.png" alt="banner that says Sai Krishna">
+<img src="https://raw.githubusercontent.com/saikrishna321/saikrishna321/master/2.png" alt="banner that says Sai Krishna">
 
 Here are some ideas to get you started:
 
